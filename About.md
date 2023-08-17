@@ -11,13 +11,18 @@ Page 2 :
   a. Category
     - Sort price
     - Sort name
+      
   b.   Back option
+  
 2.	Checkout
   a. Input food
+
   b. Input quantity
+  
   c. Continue or Cancel
-3.	Contact Person
-4.	Register Member
-5.	Log out
-6.	Exit program
+  
+4.	Contact Person
+5.	Register Member
+6.	Log out
+7.	Exit program
  
