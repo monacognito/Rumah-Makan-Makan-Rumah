@@ -1,0 +1,10 @@
+000041#Es Jeruk#11000
+000042#Jeruk Panas#11000
+000043#Susu Soda#15000
+000044#Es Teh Manis#8000
+000045#Teh Manis Panas#8000
+000046#Teh Tawar#5000
+000047#Jus Alpukat#18000
+000048#Jus Mangga#20000
+000049#Jus Strawberry#23000
+000050#Jus Sirsak#16000

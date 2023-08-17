@@ -1,0 +1,6 @@
+000016#Cumi Goreng Tepung#35000
+000017#Cumi Asam Manis#37000
+000018#Cumi Saos Padang#38000
+000019#Cumi Saos Telor Asin#38000
+000020#Cumi Cabe Caram#37000
+000021#Cumi Saos Tiram#36000

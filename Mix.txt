@@ -1,0 +1,50 @@
+000001#Gurame Goreng#12500
+000002#Gurame Bakar#12500
+000003#Gurame Rica Rica#12500
+000004#Gurame Saos Padang#12500
+000005#Gurame Asam Manis#12500
+000006#Kakap Goreng#12500
+000007#Kakap Bakar#12500
+000008#Kakap Rica Rica#12500
+000009#Kakap Saos Padang#12500
+000010#Kakap Asam Manis#12500
+000011#Nila Goreng#12500
+000012#Nila Bakar#12500
+000013#Nila Rica Rica#12500
+000014#Nila Saos Padang#12500
+000015#Nila Asam Manis#12500
+000016#Cumi Goreng Tepung#35000
+000017#Cumi Asam Manis#37000
+000018#Cumi Saos Padang#38000
+000019#Cumi Saos Telor Asin#38000
+000020#Cumi Cabe Caram#37000
+000021#Cumi Saos Tiram#36000
+000022#Udang Goreng Tepung#45000
+000023#Udang Bakar#46000
+000024#Udang Bakar Madu#48000
+000025#Udang Saos Padang#48000
+000026#Udang Saos Telor Asin#47000
+000027#Udang Cabe Garam#47000
+000028#Udang Saos Tiram#46000
+000029#Udang Asam Manis#47000
+000030#Sayur Asem#9000
+000031#Sop Iga#42000
+00032#Sop Iga Bakar#45000
+000033#Sop Buntut#42000
+000034#Sop Buntut Bakar#45000
+000035#Nasi Putih#5000
+000036#Nasi Merah#7000
+000037#Nasi Goreng Seafood#33000
+000038#Nasi Goreng Ikan Asin#29000
+000039#Nasi Goreng Ayam#25000
+000040#Nasi Goreng Telor#18000
+000041#Es Jeruk#11000
+000042#Jeruk Panas#11000
+000043#Susu Soda#15000
+000044#Es Teh Manis#8000
+000045#Teh Manis Panas#8000
+000046#Teh Tawar#5000
+000047#Jus Alpukat#18000
+000048#Jus Mangga#20000
+000049#Jus Strawberry#23000
+000050#Jus Sirsak#16000

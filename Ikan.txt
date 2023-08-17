@@ -1,0 +1,15 @@
+000001#Gurame Goreng#22500
+000002#Gurame Bakar#2500
+000003#Gurame Rica Rica#27500
+000004#Gurame Saos Padang#29000
+000005#Gurame Asam Manis#30000
+000006#Kakap Goreng#12500
+000007#Kakap Bakar#15000
+000008#Kakap Rica Rica#21000
+000009#Kakap Saos Padang#16500
+000010#Kakap Asam Manis#19000
+000011#Nila Goreng#10000
+000012#Nila Bakar#12000
+000013#Nila Rica Rica#19500
+000014#Nila Saos Padang#21000
+000015#Nila Asam Manis#17500

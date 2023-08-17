@@ -1,0 +1,6 @@
+000035#Nasi Putih#5000
+000036#Nasi Merah#7000
+000037#Nasi Goreng Seafood#33000
+000038#Nasi Goreng Ikan Asin#29000
+000039#Nasi Goreng Ayam#25000
+000040#Nasi Goreng Telor#18000

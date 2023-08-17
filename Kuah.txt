@@ -1,0 +1,5 @@
+000030#Sayur Asem#9000
+000031#Sop Iga#42000
+00032#Sop Iga Bakar#45000
+000033#Sop Buntut#42000
+000034#Sop Buntut Bakar#45000

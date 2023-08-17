@@ -1,0 +1,8 @@
+000022#Udang Goreng Tepung#45000
+000023#Udang Bakar#46000
+000024#Udang Bakar Madu#48000
+000025#Udang Saos Padang#48000
+000026#Udang Saos Telor Asin#47000
+000027#Udang Cabe Garam#47000
+000028#Udang Saos Tiram#46000
+000029#Udang Asam Manis#47000
